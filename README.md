@@ -14,23 +14,6 @@ This repo (and my broader work) is all about exploring how software really works
 
 ---
 
-### 🧭 Why “From Scratch”?
-
-Learning how systems are made *from scratch* reveals what makes them tick.  
-Every crate, every function, every unsafe block teaches something new about how software becomes real.
-
-> “If you can’t build it, you don’t understand it.”
-
----
-
-### ⚙️ Built With
-
-- **Rust** — memory safety, fearless concurrency  
-- **Cargo** — for building and testing  
-- **Makefiles** — sometimes, old school is best  
-
----
-
 > 🍳 *“Good code, like good food, is made from scratch.”*
 
 ### Main👇
