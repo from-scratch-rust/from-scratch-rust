@@ -1,8 +1,8 @@
 # 🦀 from-scratch-rust
 
-<p align="center">
-  <img src="./from-scratch-rust-banner.png" alt="From Scratch Rust" width="300"/>
-</p>
+
+<img src="./from-scratch-rust-banner.png" alt="From Scratch Rust" width="300"/>
+
 
 ### 🧑‍🍳 Cooking up code, one system at a time.
 
