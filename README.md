@@ -1,6 +1,8 @@
 # 🦀 from-scratch-rust
 
-![From Scratch Rust](./from-scratch-rust-banner.png)
+<p align="center">
+  <img src="./from-scratch-rust-banner.png" alt="From Scratch Rust" width="300"/>
+</p>
 
 ### 🧑‍🍳 Cooking up code, one system at a time.
 
