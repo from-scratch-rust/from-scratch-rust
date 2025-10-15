@@ -1,9 +1,6 @@
 # 🦀 from-scratch-rust
 
 
-<img src="./from-scratch-rust-banner.png" alt="From Scratch Rust" width="300"/>
-
-
 Welcome to **from-scratch-rust** — a journey into **building everything from the ground up in Rust**.  
 This repo (and my broader work) is all about exploring how software really works beneath the surface — no shortcuts, no frameworks, just pure Rust 🦀.
 
