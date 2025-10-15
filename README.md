@@ -36,10 +36,13 @@ Every crate, every function, every unsafe block teaches something new about how 
 
 ### 🦀 Let’s Connect
 
-- 🧵 [Follow me on GitHub](https://github.com/yourusername)  
-- 💬 [Ask a question](https://github.com/yourusername/from-scratch-rust/discussions)  
+- 🧵 [Follow me on GitHub](https://github.com/from-scratch-rust)  
+- 💬 [Ask a question](https://github.com/from-scratch-rust/discussions)  
 - ☕ Contributions and discussions are always welcome!
 
 ---
 
 > 🍳 *“Good code, like good food, is made from scratch.”*
+
+### Main👇
+[@rgreen32](https://github.com/rgreen32)
