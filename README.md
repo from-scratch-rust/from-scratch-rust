@@ -1,16 +1,45 @@
-## Hi there 👋
+# 🦀 from-scratch-rust
 
-<!--
-**from-scratch-rust/from-scratch-rust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![From Scratch Rust](./from-scratch-rust-banner.png)
 
-Here are some ideas to get you started:
+### 🧑‍🍳 Cooking up code, one system at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to **from-scratch-rust** — a journey into **building everything from the ground up in Rust**.  
+This repo (and my broader work) is all about exploring how software really works beneath the surface — no shortcuts, no frameworks, just pure Rust 🦀.
+
+---
+
+### 🧱 What You’ll Find Here
+
+- 🧩 **Low-level experiments** — filesystems, parsers, embedded code, and beyond  
+- 🧠 **Deep dives** into language internals and memory management  
+- 🧰 **Tools built from scratch** — because understanding starts at the metal  
+
+---
+
+### 🧭 Why “From Scratch”?
+
+Learning how systems are made *from scratch* reveals what makes them tick.  
+Every crate, every function, every unsafe block teaches something new about how software becomes real.
+
+> “If you can’t build it, you don’t understand it.”
+
+---
+
+### ⚙️ Built With
+
+- **Rust** — memory safety, fearless concurrency  
+- **Cargo** — for building and testing  
+- **Makefiles** — sometimes, old school is best  
+
+---
+
+### 🦀 Let’s Connect
+
+- 🧵 [Follow me on GitHub](https://github.com/yourusername)  
+- 💬 [Ask a question](https://github.com/yourusername/from-scratch-rust/discussions)  
+- ☕ Contributions and discussions are always welcome!
+
+---
+
+> 🍳 *“Good code, like good food, is made from scratch.”*
